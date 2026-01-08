@@ -10,6 +10,6 @@
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.2.5</h3>
     <h3>과정: LGCNS AM Inspire 1기</h3>
-    <h3>테스트2</h3>
+    <h3>테스트3</h3>
 </body>
 </html>
